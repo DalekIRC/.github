@@ -8,8 +8,6 @@
 [![WP](https://img.shields.io/badge/WordPress-6.0_or_later-darkgreen.svg)](https://wordpress.com)
 <a href="https://github.com/DalekIRC/Dalek-Services/actions/workflows/irctest.yml">
         <img src="https://github.com/DalekIRC/Dalek-Services/actions/workflows/irctest.yml/badge.svg" />
-
-
 ### DalekIRC Services with UnrealIRCd & WordPress integration tailored to you.<br><br>
 
 	
