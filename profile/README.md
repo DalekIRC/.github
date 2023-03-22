@@ -46,7 +46,7 @@ Author of DalekIRC also contributes early implementations of IRCv3 features in U
 
 To learn more about IRCv3, what it means, and how it's used, [check out their website](https://ircv3.net).
 
-To learn more about how DalekIRC uses IRCv3, [check out the support table](/Dalek-Services/docs/IRCv3.md)
+To learn more about how DalekIRC uses IRCv3, [check out the support table](https://github.com/DalekIRC/Dalek-Services/docs/IRCv3.md)
 	
 <div align="center">
 	
