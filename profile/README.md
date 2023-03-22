@@ -7,7 +7,7 @@
 [![Unreal](https://img.shields.io/badge/UnrealIRCd-6.0.4_or_later-darkgreen.svg)](https://unrealircd.org)
 [![WP](https://img.shields.io/badge/WordPress-6.0_or_later-darkgreen.svg)](https://wordpress.com)
 <a href="https://github.com/DalekIRC/Dalek-Services/actions/workflows/irctest.yml">
-        <img alt="test" src="https://github.com/DalekIRC/Dalek-Services/actions/workflows/irctest.yml/badge.svg" />
+        <img src="https://github.com/DalekIRC/Dalek-Services/actions/workflows/irctest.yml/badge.svg" />
 
 
 DalekIRC Services with UnrealIRCd & WordPress integration tailored to you.<br><br>
@@ -28,16 +28,6 @@ With WordPress + Dalek + UnrealIRCd, you have more creative control over things 
   * Add and remove Services staff via website, simply by adding or revoking their permission in the WordPress `Users` tab. You can oper them from the WordPress dashboard.
   * With our WordPress plugin, you have an overview of all the users, channels, network bans, servers. Additionally, you can oper staff on IRC from the website, rehash servers, remove bans, WHOIS users, WHOIS IPs, and more.
   
-## Planned Services ##
-
-- [x] NickServ
-- [x] ChanServ
-- [x] OperServ
-- [x] BotServ
-- [x] Global
-- [ ] MetaServ (HostServ replacement with extra features)
-- [x] bbServ (Optional: bbForums notification bot)
-
 <p>Although DalekIRC currently uses bots (NickServ, ChanServ etc), the ball is rolling to move things to a more "server-side command" environment, eliminating need to message a bot to ask what you need.
 
 To find out more about how DalekIRC compliments UnrealIRCd, [check out the Add-On for UnrealIRCd](https://github.com/DalekIRC/unreal-compat/blob/main/README.md)</p>
@@ -50,14 +40,16 @@ To find out more about how DalekIRC compliments UnrealIRCd, [check out the Add-O
 
 
 ## IRCv3 ##
-DalekIRC has a keen interest in the advancement of IRC specifically, and so aims to add as many IRCv3 features as is workable from a services point of view, as well as suggest a few things in return.
+DalekIRC has a keen interest in the advancement of IRC, and so aims to implement as many IRCv3 features as is workable from a services point of view, as well as suggest a few things in return.
+
+Author of DalekIRC also contributes early implementations of IRCv3 features in UnrealIRCd.
 
 To learn more about IRCv3, what it means, and how it's used, [check out their website](https://ircv3.net).
 
-To learn more about how DalekIRC uses IRCv3, [check out the support table](docs/IRCv3.md)
+To learn more about how DalekIRC uses IRCv3, [check out the support table](/DalekIRC/Dalek-Services/docs/IRCv3.md)
 	
 <div align="center">
 	
 ### <a href="https://github.com/unrealircd/unrealircd/"><img width="210" height="50" src="https://i.ibb.co/dB6H5Zq/Screenshot-from-2022-09-26-00-20-15.png"></a><a href="https://ircv3.net/"><img width="160" height="35" src="https://d33wubrfki0l68.cloudfront.net/27a59ae6bb716a8d8aa13ab8abdd2933ade16546/0a308/img/logo-forwhite.svg"></a><a href="https://github.com/wordpress/wordpress/"><img width="210" height="50" src="https://i.ibb.co/0c5NpSV/Word-Press-Logo-2003-2008.png"></a>
-<a href="https://www.murphysec.com/accept?code=2741a17ce762f4717246640d3d6f0c83&type=1&from=2&t=2" alt="Security Status"><img src="https://v3-hkylzjk.murphysec.com/platform3/v3/badge/1619314406144389120.svg" /></a></div>
+</div>
 
